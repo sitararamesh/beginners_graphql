@@ -6,7 +6,7 @@ Here's a collection of resources that I've found during my escapades into the Gr
 
 http://graphql.org/
 
-## Services:
+## Services
 
 * Apollo Client - https://github.com/apollographql/apollo-client
 * Graph.cool - GraphQL Backend - https://www.graph.cool/
