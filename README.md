@@ -10,13 +10,17 @@ http://graphql.org/
 
 * Apollo Client - https://github.com/apollographql/apollo-client
 * Graph.cool - GraphQL Backend - https://www.graph.cool/
-* Saphold.io - GraphQL Backend as a Service - https://scaphold.io/
+* Scaphold.io - GraphQL Backend as a Service - https://scaphold.io/
+
+Graph.cool seems to be more composed than Scaphold as of now. They also have a decent documentation on creating GraphQL schemas. I'd recommend reading through them, even if you're using GraphQL only on the client-side as it may help you understand the structure of a database better. 
 
 ## Apollo Client Docs
 
 * http://www.graphql.com/guides/
 * https://www.learnapollo.com/
 * https://dev-blog.apollodata.com/full-stack-react-graphql-tutorial-582ac8d24e3b?_ga=2.20383996.514826324.1499989222-1467687863.1499292889
+
+I personally used Learn Apollo. They have a simple, easy-to-use, and comprehensive tutorial that guides you to build a reactive Pokédex application using an exisiting Pokémon database provided by graph.cool. 
 
 ## Videos
 
